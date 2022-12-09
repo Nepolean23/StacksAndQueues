@@ -15,4 +15,4 @@ UC_3_AbilityToCreateQueue Queue=new UC_3_AbilityToCreateQueue();
 Queue.Enqueue(56);
 Queue.Enqueue(30);
 Queue.Enqueue(70);
-Queue.display();
+Queue.Display();
