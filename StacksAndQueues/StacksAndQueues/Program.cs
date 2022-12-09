@@ -6,7 +6,13 @@
 //list.Push(70);
 //list.display();
 
-UC_2_AbilityToPeakAndPopOperation operation=new UC_2_AbilityToPeakAndPopOperation();
-operation.peek();
-operation.pop();
-operation.IsEmpty();
+//UC_2_AbilityToPeakAndPopOperation operation=new UC_2_AbilityToPeakAndPopOperation();
+//operation.peek();
+//operation.pop();
+//operation.IsEmpty();
+
+UC_3_AbilityToCreateQueue Queue=new UC_3_AbilityToCreateQueue();
+Queue.Enqueue(56);
+Queue.Enqueue(30);
+Queue.Enqueue(70);
+Queue.display();
